@@ -1,0 +1,33 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore virtual environment files
+venv/
+env/
+*.egg-info
+
+# Ignore Groq API key file
+config.py
+
+# Ignore story chain output files
+story_chain_output.txt
+
+# Ignore other miscellaneous files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swn
+.DS_Store
+Thumbs.db
+ehthumbs.db
