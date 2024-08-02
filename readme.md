@@ -4,8 +4,7 @@ StoryChain is a Python project that utilizes the Groq API to generate a complete
 ## Setup
 To set up the StoryChain project on your PC, follow these steps:
 
-### Install the Groq library: 
-1) Run pip install groq in your terminal/command prompt.
+1)  Install the Groq library, Run `pip install groq` in your terminal/command prompt.
 2) Replace the API token: Replace the api_key variable in the code with your own Groq API token. To obtain a token, follow these steps:
 3) Go to the [Groq](https://console.groq.com) website and sign up for an account.
 4) Click on your profile picture in the top right corner and select "API Tokens".

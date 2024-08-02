@@ -1,7 +1,7 @@
 from groq import Groq
 
 client = Groq(
-    api_key="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"
+    api_key="GROQ_API_TOKEN"
 )
 
 prompt = str(input("Starting: ")),
